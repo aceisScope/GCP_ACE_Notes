@@ -2,6 +2,7 @@
 
 An in-depth study outline for Google Associate Cloud Engineer Certification Exam. The date engineering part is left bank, because the certification covers only the basic knowledge of that area, however it is still worth a look at on one's own. 
 
+
 ### 1. Projects
 
 - Creating projects: By default, when an organization is created, every user in the domain is granted that permission
@@ -73,6 +74,7 @@ projects/**[PROJECT\_ID]**/logs/cloudaudit.googleapis.com%2Factivity
 ### 6. Compute Engine
 
 - Compute Engine is, basically, kind of everything else, or even all of those things if you want. It&#39;s VM. So you have full control to do whatever you need to do to connect things together.
+- Global, regional, and zonal resources [https://cloud.google.com/compute/docs/regions-zones/global-regional-zonal-resources](https://cloud.google.com/compute/docs/regions-zones/global-regional-zonal-resources) 
 - Cloud SDK commands:
   - gcloud compute instances create/list/start/stop
 - Best IaaS option for compute and provides fine grained control
